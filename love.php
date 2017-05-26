@@ -4,7 +4,7 @@ Plugin Name: Love You to Death
 Description: Let it speak for itself.
 Author: Zach Akbar
 Version: 1.3
-Author URI: http://zachakbar.com
+Author URI: https://www.youtube.com/watch?v=xD5No_JRrZw
 */
 
 function lytd_get_lyric() {
