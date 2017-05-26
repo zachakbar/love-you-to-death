@@ -8,7 +8,6 @@ Author URI: https://www.youtube.com/watch?v=xD5No_JRrZw
 */
 
 function lytd_get_lyric() {
-	/* showing some love to one of the greats */
 	$lyrics = "In her place one hundred candles burning
 As salty sweat drips from her breast.
 her hips move and I can feel what they're saying, swaying
